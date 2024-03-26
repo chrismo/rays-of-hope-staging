@@ -1,4 +1,4 @@
-# Ray-of-Hope
+# Carolyn’s-Ray-of-Hope
 <!-- 
 KEY POINTS
 1. About:
@@ -17,11 +17,11 @@ KEY POINTS
 -* Memory Quilts: item to be made, Etsy will have to be listed as custom work once we get the website ready.
 
 4. Rays of Hope Quilt Story:
-- can have a link to this page above the brief descriptions for the quilts in 'Purchases'
+- can have a link to this page above the brief descriptions for the quilts in 'Shop'
 - Youtube link for the Story of the Quilt
 
 5. Devotional Book:
-- can probably go with the book description in 'Purchases' or have a link to this page in the book description in 'Purchases'
+- can probably go with the book description in 'Shop' or have a link to this page in the book description in 'Purchases'
 - how the book came to be
 - found in the intro of book
 
