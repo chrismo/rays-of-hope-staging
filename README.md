@@ -21,7 +21,7 @@ KEY POINTS
 - Youtube link for the Story of the Quilt
 
 5. Devotional Book:
-- can probably go with the book description in 'Shop' or have a link to this page in the book description in 'Purchases'
+- can probably go with the book description in 'Shop' or have a link to this page in the book description in 'Shop'
 - how the book came to be
 - found in the intro of book
 
