@@ -1,7 +1,9 @@
 tailwind.config = {
     theme: {
+        container: {
+            center: true,
+        },
         colors: {
-            // 'book-purple': '#555A7E'
             'book-purple': {
                 100: "#BFDEFF",
                 200: "#A8C2E5",
