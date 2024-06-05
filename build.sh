@@ -2,7 +2,7 @@
 
 function css() {
   # you can tack on --watch for continuous updates
-  npx tailwindcss -i ./src/input.css -o ./src/output.css
+  npx tailwindcss -i ./src/input.css -i ./src/global.css -o ./src/output.css
 }
 
 function usage() {
