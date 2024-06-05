@@ -26,4 +26,4 @@ KEY POINTS
 - found in the intro of book
 
 -->
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/chrismo/carolyns-ray-of-hope)
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/chrismo/rays-of-hope)
