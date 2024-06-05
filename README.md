@@ -1,4 +1,4 @@
-# Carolyn’s-Ray-of-Hope
+# Rays of Hope Creation Website
 <!-- 
 KEY POINTS
 1. About:
